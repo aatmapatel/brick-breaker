@@ -12,9 +12,9 @@
 - If the user were to miss the ball, the game is over, total points are dispalayed to the user and an option to play again should follow as well
 - If the user were to win, a congratuations message should appear followed by the option to restart the game over game
 
-##Summary of Tech Stack: The
+##Summary of Tech Stack: The program was coded using the Java programming language. The IDE which was utalize to produce and house the code was the eclipse IDE.
 
-##Functionality: 
+##Functionality: The program functions as per noted in the intended criteria. There is a automated ball which moves across the users screen and bounces off of the sliding board, walls and bricks. The program serves its purpose entirely. 
 
 ##Design:
 
