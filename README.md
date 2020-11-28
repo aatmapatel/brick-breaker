@@ -1,2 +1,9 @@
 # brick-breaker
-A Java program that allows the user to play the brick breaker game
+###Project: 
+
+##Task:
+
+##Criteria:
+
+##Summary of Tech Stack: 
+
