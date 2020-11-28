@@ -6,10 +6,13 @@
 
 ##Criteria: You are to produce a program that outputs the following:
 - There is a ball that bounces off of a automated moving board
+- The board is to be controlled by the user by pressing on their arrow keys
 - the ball is to hit blocks/bricks closer to the top of the screen
-- each time the ball hits a brick, the 
+- each time the ball hits a brick, the score is to increase by five points
+- If the user were to miss the ball, the game is over, total points are dispalayed to the user and an option to play again should follow as well
+- If the user were to win, a congratuations message should appear followed by the option to restart the game over game
 
-##Summary of Tech Stack: 
+##Summary of Tech Stack: The
 
 ##Functionality: 
 
